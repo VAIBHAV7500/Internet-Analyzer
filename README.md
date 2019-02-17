@@ -1,0 +1,2 @@
+# Internet-Analyzer
+Python, NodeJS, MongoDB, HTML5, CSS project  * What if you are able to check how much time you have spent on facebook? And then able to manage your social networking time. * This project sends a daily mail containing the overall usage of the internet in social networking, study, and other websites and also gives the facility to block and unblock the social networking sites. * It could also be used in Hostels to control the usage of the internet for any specific area.
